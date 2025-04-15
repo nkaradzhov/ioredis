@@ -6,7 +6,6 @@ The goal of ioredis is to become a Redis client that is delightful to work with.
 
 Nowadays, it is one of the most popular Redis clients, and more and more people are using it. That's why we are welcoming more people to contribute to ioredis to make it even better! 👍
 
-
 ## User Roles
 
 There are two user roles: contributors and collaborators. Everyone becomes a contributor when they are creating issues, pull requests, or helping to review code.
@@ -24,4 +23,4 @@ Considering ioredis has been used in a great many serious codebases, we must be 
 
 ioredis uses [semantic-release](https://github.com/semantic-release/semantic-release). Every commit to the master branch will trigger a release automatically. To get a helpful changelog and make sure the version is correct, we adopt AngularJS's convention for commit message format. Please read more here: https://github.com/semantic-release/semantic-release#commit-message-format
 
-We prefer a linear Git history, so when merging a pull request, we should always go with squash, and update the commit message to fit our convention (simply put, prefix with `feat: ` for features, `fix: ` for fixes, `refactor: ` for refactors, and `docs: ` for documentation changes).
+We prefer a linear Git history, so when merging a pull request, we should always go with squash, and update the commit message to fit our convention (simply put, prefix with `feat: ` for features, `fix: ` for fixes, `refactor: ` for refactors, and `docs: ` for documentation changes).1
