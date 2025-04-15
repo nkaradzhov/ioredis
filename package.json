@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/luin/ioredis.git"
+    "url": "git@github.com:nkaradzhov/ioredis.git"
   },
   "keywords": [
     "redis",
